@@ -16,4 +16,5 @@ def Order(drink, size="medium", iced=False):
     if not iced:
         print(f"You ordered {size} {drink}")
     else:
-        print(f"you ordered {size} {drink}")
+        print(f"you ordered {size} Iced {drink}")
+
