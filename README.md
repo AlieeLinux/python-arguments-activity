@@ -1,6 +1,6 @@
 # Laboratory Activity: Working with Python Function Arguments
 
-## Submission of my potentially last activity on BSDSA course. and sorry to everyone. I think can't handle this course anymore
+## Submission of my potentially last activity on BSDSA course. and I Apologize to everyone. I think can't handle this course anymore
 
 ![Kyouko Cry](./toshino-kyoko-kyoko-toshino.gif)
 
