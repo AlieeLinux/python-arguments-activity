@@ -2,7 +2,7 @@
 
 ## Submission of my potentially last activity on BSDSA course. and sorry to everyone. I think can't handle this course anymore
 
-![Kyouko Cry](https://media1.tenor.com/m/oKvof2YHJ_8AAAAC/toshino-kyoko-kyoko-toshino.gif)
+![Kyouko Cry](./toshino-kyoko-kyoko-toshino.gif)
 
 > usage
 
