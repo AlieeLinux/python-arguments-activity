@@ -1,8 +1,8 @@
-# Laboratory Activity: Working with Python Function Arguments.
+# Laboratory Activity: Working with Python Function Arguments
 
 > and as always. do not clone and sumbit this instead.
 
-## Submission of my potentially last activity on BSDSA course.
+## Submission of my potentially last activity on BSDSA course
 
 > usage
 
@@ -19,7 +19,7 @@ from libs import Part4
 Part4.Order("black coffee", iced=True)
 ```
 
-## and I Apologize to everyone. I think can't handle this course anymore. Its not beause its too hard. Its just straight up unfair to us students
+## and I Apologize to everyone. I think can't handle this course anymore. Its not because its too hard. Its just straight up unfair to us students because of that one single professor(not gonna say who is that)
 
 ![Kyouko Cry](./toshino-kyoko-kyoko-toshino.gif)
 
