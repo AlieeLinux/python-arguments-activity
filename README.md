@@ -18,6 +18,26 @@ python Main.py
 from libs import Part4
 Part4.Order("black coffee", iced=True)
 ```
+## Note
+
+part3 is not wrong order. the instruction says
+
+```
+Part 3 — Default Arguments
+    1. Modify the function to include a default value:
+def describe_pet(pet_name, animal_type="dog"):
+    print(f"I have a {animal_type} and its name is {pet_name}.")
+Tasks:
+    • Call describe_pet("Brownie")
+    • Call describe_pet("Nugget", "chicken")
+
+
+def describe_pet(animal_type, pet_name="dog"):
+    print(f"I have a {animal_type} and its name is {pet_name}.")
+
+describe_pet("Brownie")
+describe_pet("Nugget", "chicken")%                          
+```
 
 ## and I Apologize to everyone. I think can't handle this course anymore. Its not because its too hard. Its just straight up unfair to us students because of that one single professor(not gonna say who is that)
 
