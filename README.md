@@ -23,4 +23,6 @@ Part4.Order("black coffee", iced=True)
 
 ![Kyouko Cry](./toshino-kyoko-kyoko-toshino.gif)
 
+> [send your frustrations here](./list.txt)
+
 > Cyrus Troy @AlieeLinux
